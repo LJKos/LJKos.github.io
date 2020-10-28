@@ -1,0 +1,16 @@
+
+.header {
+    background: 0;
+}
+
+h1.header {
+    color: 255;
+}
+
+.content {
+    background: 255;
+}
+
+.footer {
+    background: 0;
+}
